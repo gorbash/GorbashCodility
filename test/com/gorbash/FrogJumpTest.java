@@ -1,3 +1,5 @@
+package com.gorbash;
+
 import com.gorbash.FrogJump;
 import org.junit.Test;
 

@@ -1,3 +1,5 @@
+package com.gorbash;
+
 import com.gorbash.TapeEquilibrium;
 import org.junit.Test;
 

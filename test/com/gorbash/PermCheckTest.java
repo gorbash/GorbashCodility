@@ -1,3 +1,5 @@
+package com.gorbash;
+
 import com.gorbash.PermCheck;
 import org.junit.Test;
 

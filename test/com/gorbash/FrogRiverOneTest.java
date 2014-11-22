@@ -1,3 +1,5 @@
+package com.gorbash;
+
 import com.gorbash.FrogRiverOne;
 import org.junit.Test;
 
