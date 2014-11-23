@@ -1,6 +1,6 @@
 package com.gorbash;
 
-import com.gorbash.TapeEquilibrium;
+import com.gorbash.timecomplexity.TapeEquilibrium;
 import org.junit.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;

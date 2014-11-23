@@ -1,4 +1,4 @@
-package com.gorbash;
+package com.gorbash.timecomplexity;
 
 public class TapeEquilibrium {
 

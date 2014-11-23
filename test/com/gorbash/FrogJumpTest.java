@@ -1,6 +1,6 @@
 package com.gorbash;
 
-import com.gorbash.FrogJump;
+import com.gorbash.timecomplexity.FrogJump;
 import org.junit.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -1,5 +1,6 @@
 package com.gorbash;
 
+import com.gorbash.countingelements.FindMissingPositiveInteger;
 import org.junit.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;

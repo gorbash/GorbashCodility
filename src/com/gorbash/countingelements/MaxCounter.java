@@ -1,4 +1,4 @@
-package com.gorbash;
+package com.gorbash.countingelements;
 
 /**
  * Created by Gorbash on 2014-11-23.

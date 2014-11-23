@@ -1,6 +1,6 @@
 package com.gorbash;
 
-import com.gorbash.FrogRiverOne;
+import com.gorbash.countingelements.FrogRiverOne;
 import org.junit.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;

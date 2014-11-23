@@ -1,6 +1,6 @@
 package com.gorbash;
 
-import com.gorbash.PermCheck;
+import com.gorbash.countingelements.PermCheck;
 import org.junit.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;
