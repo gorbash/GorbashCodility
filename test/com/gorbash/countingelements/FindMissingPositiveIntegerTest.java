@@ -1,4 +1,4 @@
-package com.gorbash;
+package com.gorbash.countingelements;
 
 import com.gorbash.countingelements.FindMissingPositiveInteger;
 import org.junit.Test;

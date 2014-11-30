@@ -1,4 +1,4 @@
-package com.gorbash;
+package com.gorbash.prefixsum;
 
 import com.gorbash.prefixsum.MinAvgTwoSlice;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.gorbash;
+package com.gorbash.countingelements;
 
 import com.gorbash.countingelements.MaxCounter;
 import org.junit.Test;

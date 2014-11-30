@@ -1,4 +1,4 @@
-package com.gorbash;
+package com.gorbash.prefixsum;
 
 import com.gorbash.prefixsum.GenomicRangeQuery;
 import org.junit.Before;

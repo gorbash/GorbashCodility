@@ -1,4 +1,4 @@
-package com.gorbash;
+package com.gorbash.prefixsum;
 
 import com.gorbash.prefixsum.PassingCars;
 import org.junit.Test;

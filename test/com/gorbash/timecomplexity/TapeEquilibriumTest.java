@@ -1,4 +1,4 @@
-package com.gorbash;
+package com.gorbash.timecomplexity;
 
 import com.gorbash.timecomplexity.TapeEquilibrium;
 import org.junit.Test;

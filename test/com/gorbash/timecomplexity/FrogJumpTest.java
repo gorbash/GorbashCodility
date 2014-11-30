@@ -1,4 +1,4 @@
-package com.gorbash;
+package com.gorbash.timecomplexity;
 
 import com.gorbash.timecomplexity.FrogJump;
 import org.junit.Test;
