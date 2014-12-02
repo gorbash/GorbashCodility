@@ -18,5 +18,12 @@ public class DistinctTest {
         assertThat(object.solution(new int[]{-21, -21, 21}), is(2));
         assertThat(object.solution(new int[]{}), is(0));
     }
+
+    @Test
+    public void otherTest() {
+        assertThat(object.solution(new int[]{Integer.MAX_VALUE, 2, Integer.MIN_VALUE}), is(3));
+
+
+    }
 }
 
