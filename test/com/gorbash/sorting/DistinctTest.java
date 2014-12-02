@@ -17,7 +17,7 @@ public class DistinctTest {
 
         assertThat(object.solution(new int[]{-21, -21, 21}), is(2));
         assertThat(object.solution(new int[]{}), is(0));
-		 assertThat(object.solution(new int[]{}), is(1, 1, 1));
+		 assertThat(object.solution(new int[]{1}), is(1));
     }
 
     @Test
