@@ -1,10 +1,10 @@
 package com.gorbash.sorting;
 
 import java.util.Arrays;
-import java.util.Collection;
 
 /**
  * Created by Gorbash on 2014-11-30.
+ * Implementation of Codility MaxProductOfThree.
  */
 public class MaxProductOfThree {
     public int solution(int[] A) {

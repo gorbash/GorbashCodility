@@ -2,18 +2,19 @@ package com.gorbash.leader;
 
 /**
  * Created by Gorbash on 2014-12-07.
+ * Implementation of Codility EquiLeader problem.
  */
 public class EquiLeader {
 
     public int solution(int[] A) {
         int candidate = 0;
         int size = 0;
-        for (int i = 0; i < A.length; i++) {
+        for (int el : A) {
             if (size == 0) {
-                candidate = A[i];
+                candidate = el;
                 size++;
             } else if (size > 0) {
-                if (candidate == A[i])
+                if (candidate == el)
                     size++;
                 else
                     size--;
@@ -24,11 +25,9 @@ public class EquiLeader {
         if (size <= 0)
             return 0;
         int count = 0;
-        int index = -1;
-        for (int i = 0; i < A.length; i++) {
-            if (A[i] == candidate) {
+        for (int el : A) {
+            if (el == candidate) {
                 count++;
-                index = i;
             }
         }
         if (count <= A.length / 2)

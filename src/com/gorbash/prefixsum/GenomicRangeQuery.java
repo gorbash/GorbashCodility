@@ -1,10 +1,9 @@
 package com.gorbash.prefixsum;
 
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Created by Gorbash on 2014-11-29.
+ * Implementation of Codility GenomicRangeQuery.
  */
 public class GenomicRangeQuery {
 
@@ -52,7 +51,7 @@ public class GenomicRangeQuery {
     }
 
     public int mapCharToValue(char ch) {
-        int ret = 0;
+        int ret;
         switch (ch) {
             case 'A':ret = 1;break;
             case 'C':ret = 2;break;
